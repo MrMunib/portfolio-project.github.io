@@ -97,8 +97,8 @@ a {
 .faded-text {
   user-select: none;
   position: absolute;
-  top: -10%;
-  left: 0rem;
+  bottom: -10%;
+  left: 3rem;
   font-size: 4em;
   color: rgb(231, 231, 231);
   font-weight: bold;
